@@ -1,5 +1,5 @@
 {
-  "version": "0.19.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.19.0.zip",
-  "notes": "区間クリックでカイポケ画面の該当訪問へスクロール＆ハイライト"
+  "version": "0.21.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.21.0.zip",
+  "notes": "チェックボックスラベルを簡潔に"
 }
