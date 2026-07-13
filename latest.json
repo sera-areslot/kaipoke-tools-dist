@@ -1,5 +1,5 @@
 {
-  "version": "0.22.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.22.0.zip",
-  "notes": "サイドバーに動作中バージョンを表示（更新の反映確認用）"
+  "version": "0.22.1",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.22.1.zip",
+  "notes": "古いバックグラウンド検知時に「拡張機能の再起動が必要です」と表示"
 }
