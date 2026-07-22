@@ -1,5 +1,5 @@
 {
-  "version": "0.23.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.23.0.zip",
-  "notes": "SOAP内容の改善：良好系の偏り是正・記録に無い便通/体操の話題を排除・来訪と症状改善の因果を禁止"
+  "version": "0.24.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.24.0.zip",
+  "notes": "うつ病など精神疾患向けのシナリオ・着眼点を追加し内容を充実。薄い記載(調子が良いのみ等)を禁止"
 }
