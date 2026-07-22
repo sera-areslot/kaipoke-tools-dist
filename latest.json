@@ -1,5 +1,5 @@
 {
-  "version": "0.22.1",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.22.1.zip",
-  "notes": "古いバックグラウンド検知時に「拡張機能の再起動が必要です」と表示"
+  "version": "0.23.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.23.0.zip",
+  "notes": "SOAP内容の改善：良好系の偏り是正・記録に無い便通/体操の話題を排除・来訪と症状改善の因果を禁止"
 }
