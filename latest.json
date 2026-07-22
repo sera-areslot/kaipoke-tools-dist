@@ -1,5 +1,5 @@
 {
-  "version": "0.24.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.24.0.zip",
-  "notes": "うつ病など精神疾患向けのシナリオ・着眼点を追加し内容を充実。薄い記載(調子が良いのみ等)を禁止"
+  "version": "0.32.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.32.0.zip",
+  "notes": "本日の様子を軸ごとに選ぶ方式に刷新(抽選廃止)・寝つき/昼夜逆転/水分不足など選択肢追加・画面の簡素化"
 }
