@@ -1,5 +1,5 @@
 {
-  "version": "0.35.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.35.0.zip",
-  "notes": "SOAPに時間帯(午後等)を明示せず矛盾のみ回避。未指定時に家族の訪問などの出来事を作らない。意欲低下・終日在宅・外出・睡眠などの記録を特定活動に固定せず中立化。"
+  "version": "0.36.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.36.0.zip",
+  "notes": "SOAPのS/O/A/Pが毎回同じ決まり文句(不安感や焦り・傾聴など)にならないよう表現を多様化。具体化しても療養状況・バイタル・調子やS/O/A/P相互と矛盾しないガードを追加。"
 }
