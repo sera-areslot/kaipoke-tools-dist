@@ -1,5 +1,5 @@
 {
-  "version": "0.34.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.34.0.zip",
-  "notes": "意欲低下の記録を家事に固定せず中立化。訪問時間を反映し日時の矛盾(昼の訪問で「今夜」等)を防止。更新後の版ズレも自動で再読み込みして解消。"
+  "version": "0.35.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.35.0.zip",
+  "notes": "SOAPに時間帯(午後等)を明示せず矛盾のみ回避。未指定時に家族の訪問などの出来事を作らない。意欲低下・終日在宅・外出・睡眠などの記録を特定活動に固定せず中立化。"
 }
