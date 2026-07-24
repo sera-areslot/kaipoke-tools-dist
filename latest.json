@@ -1,5 +1,5 @@
 {
-  "version": "0.32.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.32.0.zip",
-  "notes": "本日の様子を軸ごとに選ぶ方式に刷新(抽選廃止)・寝つき/昼夜逆転/水分不足など選択肢追加・画面の簡素化"
+  "version": "0.33.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.33.0.zip",
+  "notes": "更新後にフロント/バックエンドの版がズレても自動で再読み込みして解消(手動の再読み込みが不要に)"
 }
