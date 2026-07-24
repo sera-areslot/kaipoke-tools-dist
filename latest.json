@@ -1,5 +1,5 @@
 {
-  "version": "0.37.2",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.37.2.zip",
-  "notes": "「環境調整」「多職種連携」を生成結果と履歴の両方からコードで確実に除去(見守り/状態観察に置換)。"
+  "version": "0.37.3",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.37.3.zip",
+  "notes": "P(計画)を基本1つの対応で簡潔にし、「見守りと声かけ」等の固定の組み合わせや同じ文末に偏らないよう多様化。"
 }
