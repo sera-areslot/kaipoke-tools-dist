@@ -1,5 +1,5 @@
 {
-  "version": "0.36.0",
-  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.36.0.zip",
-  "notes": "SOAPのS/O/A/Pが毎回同じ決まり文句(不安感や焦り・傾聴など)にならないよう表現を多様化。具体化しても療養状況・バイタル・調子やS/O/A/P相互と矛盾しないガードを追加。"
+  "version": "0.37.0",
+  "zip": "https://raw.githubusercontent.com/sera-areslot/kaipoke-tools-dist/main/kaipoke-record-assist-v0.37.0.zip",
+  "notes": "P(計画)が「声かけ」ばかりにならないよう、見守り・状態観察・傾聴・具体的な助言・継続支援・次回の確認事項などに多様化。"
 }
